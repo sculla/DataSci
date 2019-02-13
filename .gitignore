@@ -12,3 +12,257 @@ venv/
 \.idea/vcs\.xml
 
 \.idea/workspace\.xml
+
+Notebooks/Py-DS-ML-Bootcamp-master/Refactored_Py_DS_ML_Bootcamp-master/00-Welcome to the Course\.ipynb
+
+Notebooks/Py-DS-ML-Bootcamp-master/Refactored_Py_DS_ML_Bootcamp-master/01-Python-Crash-Course/01-Python Crash Course\.ipynb
+
+Notebooks/Py-DS-ML-Bootcamp-master/Refactored_Py_DS_ML_Bootcamp-master/01-Python-Crash-Course/02-Python Crash Course Exercises\.ipynb
+
+Notebooks/Py-DS-ML-Bootcamp-master/Refactored_Py_DS_ML_Bootcamp-master/01-Python-Crash-Course/03-Python Crash Course Exercises - Solutions\.ipynb
+
+Notebooks/Py-DS-ML-Bootcamp-master/Refactored_Py_DS_ML_Bootcamp-master/02-Python-for-Data-Analysis-NumPy/01-NumPy Arrays\.ipynb
+
+Notebooks/Py-DS-ML-Bootcamp-master/Refactored_Py_DS_ML_Bootcamp-master/02-Python-for-Data-Analysis-NumPy/02-Numpy Indexing and Selection\.ipynb
+
+Notebooks/Py-DS-ML-Bootcamp-master/Refactored_Py_DS_ML_Bootcamp-master/02-Python-for-Data-Analysis-NumPy/03-Numpy Operations\.ipynb
+
+Notebooks/Py-DS-ML-Bootcamp-master/Refactored_Py_DS_ML_Bootcamp-master/02-Python-for-Data-Analysis-NumPy/04-Numpy Exercises\.ipynb
+
+Notebooks/Py-DS-ML-Bootcamp-master/Refactored_Py_DS_ML_Bootcamp-master/02-Python-for-Data-Analysis-NumPy/05-Numpy Exercises - Solutions\.ipynb
+
+Notebooks/Py-DS-ML-Bootcamp-master/Refactored_Py_DS_ML_Bootcamp-master/03-Python-for-Data-Analysis-Pandas/01-Introduction to Pandas\.ipynb
+
+Notebooks/Py-DS-ML-Bootcamp-master/Refactored_Py_DS_ML_Bootcamp-master/03-Python-for-Data-Analysis-Pandas/02-Series\.ipynb
+
+Notebooks/Py-DS-ML-Bootcamp-master/Refactored_Py_DS_ML_Bootcamp-master/03-Python-for-Data-Analysis-Pandas/03-DataFrames\.ipynb
+
+Notebooks/Py-DS-ML-Bootcamp-master/Refactored_Py_DS_ML_Bootcamp-master/03-Python-for-Data-Analysis-Pandas/04-Missing Data\.ipynb
+
+Notebooks/Py-DS-ML-Bootcamp-master/Refactored_Py_DS_ML_Bootcamp-master/03-Python-for-Data-Analysis-Pandas/05-Groupby\.ipynb
+
+Notebooks/Py-DS-ML-Bootcamp-master/Refactored_Py_DS_ML_Bootcamp-master/03-Python-for-Data-Analysis-Pandas/06-Merging, Joining, and Concatenating\.ipynb
+
+Notebooks/Py-DS-ML-Bootcamp-master/Refactored_Py_DS_ML_Bootcamp-master/03-Python-for-Data-Analysis-Pandas/07-Operations\.ipynb
+
+Notebooks/Py-DS-ML-Bootcamp-master/Refactored_Py_DS_ML_Bootcamp-master/03-Python-for-Data-Analysis-Pandas/08-Data Input and Output\.ipynb
+
+Notebooks/Py-DS-ML-Bootcamp-master/Refactored_Py_DS_ML_Bootcamp-master/03-Python-for-Data-Analysis-Pandas/example
+
+Notebooks/Py-DS-ML-Bootcamp-master/Refactored_Py_DS_ML_Bootcamp-master/03-Python-for-Data-Analysis-Pandas/Excel_Sample\.xlsx
+
+Notebooks/Py-DS-ML-Bootcamp-master/Refactored_Py_DS_ML_Bootcamp-master/03-Python-for-Data-Analysis-Pandas/multi_index_example
+
+Notebooks/Py-DS-ML-Bootcamp-master/Refactored_Py_DS_ML_Bootcamp-master/04-Pandas-Exercises/01-SF Salaries Exercise\.ipynb
+
+Notebooks/Py-DS-ML-Bootcamp-master/Refactored_Py_DS_ML_Bootcamp-master/04-Pandas-Exercises/02-SF Salaries Exercise - Solutions\.ipynb
+
+Notebooks/Py-DS-ML-Bootcamp-master/Refactored_Py_DS_ML_Bootcamp-master/04-Pandas-Exercises/03-Ecommerce Purchases Exercise \.ipynb
+
+Notebooks/Py-DS-ML-Bootcamp-master/Refactored_Py_DS_ML_Bootcamp-master/04-Pandas-Exercises/04-Ecommerce Purchases Exercise - Solutions\.ipynb
+
+Notebooks/Py-DS-ML-Bootcamp-master/Refactored_Py_DS_ML_Bootcamp-master/04-Pandas-Exercises/Ecommerce Purchases
+
+Notebooks/Py-DS-ML-Bootcamp-master/Refactored_Py_DS_ML_Bootcamp-master/04-Pandas-Exercises/Salaries\.csv
+
+Notebooks/Py-DS-ML-Bootcamp-master/Refactored_Py_DS_ML_Bootcamp-master/05-Data-Visualization-with-Matplotlib/01-Matplotlib Concepts Lecture\.ipynb
+
+Notebooks/Py-DS-ML-Bootcamp-master/Refactored_Py_DS_ML_Bootcamp-master/05-Data-Visualization-with-Matplotlib/02-Matplotlib Exercises\.ipynb
+
+Notebooks/Py-DS-ML-Bootcamp-master/Refactored_Py_DS_ML_Bootcamp-master/05-Data-Visualization-with-Matplotlib/03-Matplotlib Exercises - Solutions\.ipynb
+
+Notebooks/Py-DS-ML-Bootcamp-master/Refactored_Py_DS_ML_Bootcamp-master/05-Data-Visualization-with-Matplotlib/04-Advanced Matplotlib Concepts\.ipynb
+
+Notebooks/Py-DS-ML-Bootcamp-master/Refactored_Py_DS_ML_Bootcamp-master/06-Data-Visualization-with-Seaborn/01-Distribution Plots\.ipynb
+
+Notebooks/Py-DS-ML-Bootcamp-master/Refactored_Py_DS_ML_Bootcamp-master/06-Data-Visualization-with-Seaborn/02-Categorical Plots\.ipynb
+
+Notebooks/Py-DS-ML-Bootcamp-master/Refactored_Py_DS_ML_Bootcamp-master/06-Data-Visualization-with-Seaborn/03-Matrix Plots\.ipynb
+
+Notebooks/Py-DS-ML-Bootcamp-master/Refactored_Py_DS_ML_Bootcamp-master/06-Data-Visualization-with-Seaborn/04-Grids\.ipynb
+
+Notebooks/Py-DS-ML-Bootcamp-master/Refactored_Py_DS_ML_Bootcamp-master/06-Data-Visualization-with-Seaborn/05-Regression Plots\.ipynb
+
+Notebooks/Py-DS-ML-Bootcamp-master/Refactored_Py_DS_ML_Bootcamp-master/06-Data-Visualization-with-Seaborn/06-Style and Color\.ipynb
+
+Notebooks/Py-DS-ML-Bootcamp-master/Refactored_Py_DS_ML_Bootcamp-master/06-Data-Visualization-with-Seaborn/07-Seaborn Exercises\.ipynb
+
+Notebooks/Py-DS-ML-Bootcamp-master/Refactored_Py_DS_ML_Bootcamp-master/06-Data-Visualization-with-Seaborn/08-Seaborn Exercises - Solutions\.ipynb
+
+Notebooks/Py-DS-ML-Bootcamp-master/Refactored_Py_DS_ML_Bootcamp-master/07-Pandas-Built-in-Data-Viz/01-Pandas Built-in Data Visualization\.ipynb
+
+Notebooks/Py-DS-ML-Bootcamp-master/Refactored_Py_DS_ML_Bootcamp-master/07-Pandas-Built-in-Data-Viz/02-Pandas Data Visualization Exercise\.ipynb
+
+Notebooks/Py-DS-ML-Bootcamp-master/Refactored_Py_DS_ML_Bootcamp-master/07-Pandas-Built-in-Data-Viz/03-Pandas Data Visualization Exercise - Solutions\.ipynb
+
+Notebooks/Py-DS-ML-Bootcamp-master/Refactored_Py_DS_ML_Bootcamp-master/07-Pandas-Built-in-Data-Viz/df1
+
+Notebooks/Py-DS-ML-Bootcamp-master/Refactored_Py_DS_ML_Bootcamp-master/07-Pandas-Built-in-Data-Viz/df2
+
+Notebooks/Py-DS-ML-Bootcamp-master/Refactored_Py_DS_ML_Bootcamp-master/07-Pandas-Built-in-Data-Viz/df3
+
+Notebooks/Py-DS-ML-Bootcamp-master/Refactored_Py_DS_ML_Bootcamp-master/08-Plotly-and-Cufflinks/01-Plotly and Cufflinks\.ipynb
+
+Notebooks/Py-DS-ML-Bootcamp-master/Refactored_Py_DS_ML_Bootcamp-master/09-Geographical-Plotting/01-Choropleth Maps\.ipynb
+
+Notebooks/Py-DS-ML-Bootcamp-master/Refactored_Py_DS_ML_Bootcamp-master/09-Geographical-Plotting/02-Choropleth Maps Exercise\.ipynb
+
+Notebooks/Py-DS-ML-Bootcamp-master/Refactored_Py_DS_ML_Bootcamp-master/09-Geographical-Plotting/03-Choropleth Maps Exercise - Solutions\.ipynb
+
+Notebooks/Py-DS-ML-Bootcamp-master/Refactored_Py_DS_ML_Bootcamp-master/09-Geographical-Plotting/2011_US_AGRI_Exports
+
+Notebooks/Py-DS-ML-Bootcamp-master/Refactored_Py_DS_ML_Bootcamp-master/09-Geographical-Plotting/2012_Election_Data
+
+Notebooks/Py-DS-ML-Bootcamp-master/Refactored_Py_DS_ML_Bootcamp-master/09-Geographical-Plotting/2014_World_GDP
+
+Notebooks/Py-DS-ML-Bootcamp-master/Refactored_Py_DS_ML_Bootcamp-master/09-Geographical-Plotting/2014_World_Power_Consumption
+
+Notebooks/Py-DS-ML-Bootcamp-master/Refactored_Py_DS_ML_Bootcamp-master/09-Geographical-Plotting/plotly_cheat_sheet\.pdf
+
+Notebooks/Py-DS-ML-Bootcamp-master/Refactored_Py_DS_ML_Bootcamp-master/10-Data-Capstone-Projects/\.ipynb_checkpoints/03-Finance Project-checkpoint\.ipynb
+
+Notebooks/Py-DS-ML-Bootcamp-master/Refactored_Py_DS_ML_Bootcamp-master/10-Data-Capstone-Projects/\.ipynb_checkpoints/04-Finance Project - Solutions-checkpoint\.ipynb
+
+Notebooks/Py-DS-ML-Bootcamp-master/Refactored_Py_DS_ML_Bootcamp-master/10-Data-Capstone-Projects/01-911 Calls Data Capstone Project\.ipynb
+
+Notebooks/Py-DS-ML-Bootcamp-master/Refactored_Py_DS_ML_Bootcamp-master/10-Data-Capstone-Projects/02-911 Calls Data Capstone Project - Solutions\.ipynb
+
+Notebooks/Py-DS-ML-Bootcamp-master/Refactored_Py_DS_ML_Bootcamp-master/10-Data-Capstone-Projects/03-Finance Project\.ipynb
+
+Notebooks/Py-DS-ML-Bootcamp-master/Refactored_Py_DS_ML_Bootcamp-master/10-Data-Capstone-Projects/04-Finance Project - Solutions\.ipynb
+
+Notebooks/Py-DS-ML-Bootcamp-master/Refactored_Py_DS_ML_Bootcamp-master/10-Data-Capstone-Projects/911\.csv
+
+Notebooks/Py-DS-ML-Bootcamp-master/Refactored_Py_DS_ML_Bootcamp-master/10-Data-Capstone-Projects/precipitation\.html
+
+Notebooks/Py-DS-ML-Bootcamp-master/Refactored_Py_DS_ML_Bootcamp-master/11-Linear-Regression/01-Linear Regression with Python\.ipynb
+
+Notebooks/Py-DS-ML-Bootcamp-master/Refactored_Py_DS_ML_Bootcamp-master/11-Linear-Regression/02-Linear Regression Project\.ipynb
+
+Notebooks/Py-DS-ML-Bootcamp-master/Refactored_Py_DS_ML_Bootcamp-master/11-Linear-Regression/03-Linear Regression Project - Solutions\.ipynb
+
+Notebooks/Py-DS-ML-Bootcamp-master/Refactored_Py_DS_ML_Bootcamp-master/11-Linear-Regression/Ecommerce Customers
+
+Notebooks/Py-DS-ML-Bootcamp-master/Refactored_Py_DS_ML_Bootcamp-master/11-Linear-Regression/USA_Housing\.csv
+
+Notebooks/Py-DS-ML-Bootcamp-master/Refactored_Py_DS_ML_Bootcamp-master/13-Logistic-Regression/01-Logistic Regression with Python\.ipynb
+
+Notebooks/Py-DS-ML-Bootcamp-master/Refactored_Py_DS_ML_Bootcamp-master/13-Logistic-Regression/02-Logistic Regression Project\.ipynb
+
+Notebooks/Py-DS-ML-Bootcamp-master/Refactored_Py_DS_ML_Bootcamp-master/13-Logistic-Regression/03-Logistic Regression Project - Solutions\.ipynb
+
+Notebooks/Py-DS-ML-Bootcamp-master/Refactored_Py_DS_ML_Bootcamp-master/13-Logistic-Regression/advertising\.csv
+
+Notebooks/Py-DS-ML-Bootcamp-master/Refactored_Py_DS_ML_Bootcamp-master/13-Logistic-Regression/titanic_test\.csv
+
+Notebooks/Py-DS-ML-Bootcamp-master/Refactored_Py_DS_ML_Bootcamp-master/13-Logistic-Regression/titanic_train\.csv
+
+Notebooks/Py-DS-ML-Bootcamp-master/Refactored_Py_DS_ML_Bootcamp-master/14-K-Nearest-Neighbors/01-K Nearest Neighbors with Python\.ipynb
+
+Notebooks/Py-DS-ML-Bootcamp-master/Refactored_Py_DS_ML_Bootcamp-master/14-K-Nearest-Neighbors/02-K Nearest Neighbors Project\.ipynb
+
+Notebooks/Py-DS-ML-Bootcamp-master/Refactored_Py_DS_ML_Bootcamp-master/14-K-Nearest-Neighbors/03-K Nearest Neighbors Project - Solutions\.ipynb
+
+Notebooks/Py-DS-ML-Bootcamp-master/Refactored_Py_DS_ML_Bootcamp-master/14-K-Nearest-Neighbors/Classified Data
+
+Notebooks/Py-DS-ML-Bootcamp-master/Refactored_Py_DS_ML_Bootcamp-master/14-K-Nearest-Neighbors/KNN_Project_Data
+
+Notebooks/Py-DS-ML-Bootcamp-master/Refactored_Py_DS_ML_Bootcamp-master/15-Decision-Trees-and-Random-Forests/01-Decision Trees and Random Forests in Python\.ipynb
+
+Notebooks/Py-DS-ML-Bootcamp-master/Refactored_Py_DS_ML_Bootcamp-master/15-Decision-Trees-and-Random-Forests/02-Decision Trees and Random Forest Project\.ipynb
+
+Notebooks/Py-DS-ML-Bootcamp-master/Refactored_Py_DS_ML_Bootcamp-master/15-Decision-Trees-and-Random-Forests/03-Decision Trees and Random Forest Project - Solutions\.ipynb
+
+Notebooks/Py-DS-ML-Bootcamp-master/Refactored_Py_DS_ML_Bootcamp-master/15-Decision-Trees-and-Random-Forests/kyphosis\.csv
+
+Notebooks/Py-DS-ML-Bootcamp-master/Refactored_Py_DS_ML_Bootcamp-master/15-Decision-Trees-and-Random-Forests/loan_data\.csv
+
+Notebooks/Py-DS-ML-Bootcamp-master/Refactored_Py_DS_ML_Bootcamp-master/16-Support-Vector-Machines/01-Support Vector Machines with Python\.ipynb
+
+Notebooks/Py-DS-ML-Bootcamp-master/Refactored_Py_DS_ML_Bootcamp-master/16-Support-Vector-Machines/02-Support Vector Machines Project\.ipynb
+
+Notebooks/Py-DS-ML-Bootcamp-master/Refactored_Py_DS_ML_Bootcamp-master/16-Support-Vector-Machines/03-Support Vector Machines Project - Solutions\.ipynb
+
+Notebooks/Py-DS-ML-Bootcamp-master/Refactored_Py_DS_ML_Bootcamp-master/17-K-Means-Clustering/01-K Means Clustering with Python\.ipynb
+
+Notebooks/Py-DS-ML-Bootcamp-master/Refactored_Py_DS_ML_Bootcamp-master/17-K-Means-Clustering/02-K Means Clustering Project\.ipynb
+
+Notebooks/Py-DS-ML-Bootcamp-master/Refactored_Py_DS_ML_Bootcamp-master/17-K-Means-Clustering/03-K Means Clustering Project - Solutions\.ipynb
+
+Notebooks/Py-DS-ML-Bootcamp-master/Refactored_Py_DS_ML_Bootcamp-master/17-K-Means-Clustering/College_Data
+
+Notebooks/Py-DS-ML-Bootcamp-master/Refactored_Py_DS_ML_Bootcamp-master/18-Principal-Component-Analysis/01-Principal Component Analysis\.ipynb
+
+Notebooks/Py-DS-ML-Bootcamp-master/Refactored_Py_DS_ML_Bootcamp-master/18-Principal-Component-Analysis/PCA\.png
+
+Notebooks/Py-DS-ML-Bootcamp-master/Refactored_Py_DS_ML_Bootcamp-master/19-Recommender-Systems/01-Recommender Systems with Python\.ipynb
+
+Notebooks/Py-DS-ML-Bootcamp-master/Refactored_Py_DS_ML_Bootcamp-master/19-Recommender-Systems/02-Advanced Recommender Systems with Python\.ipynb
+
+Notebooks/Py-DS-ML-Bootcamp-master/Refactored_Py_DS_ML_Bootcamp-master/19-Recommender-Systems/Movie_Id_Titles
+
+Notebooks/Py-DS-ML-Bootcamp-master/Refactored_Py_DS_ML_Bootcamp-master/19-Recommender-Systems/u\.data
+
+Notebooks/Py-DS-ML-Bootcamp-master/Refactored_Py_DS_ML_Bootcamp-master/19-Recommender-Systems/u\.item
+
+Notebooks/Py-DS-ML-Bootcamp-master/Refactored_Py_DS_ML_Bootcamp-master/20-Natural-Language-Processing/01-NLP \(Natural Language Processing\) with Python\.ipynb
+
+Notebooks/Py-DS-ML-Bootcamp-master/Refactored_Py_DS_ML_Bootcamp-master/20-Natural-Language-Processing/02-NLP Project\.ipynb
+
+Notebooks/Py-DS-ML-Bootcamp-master/Refactored_Py_DS_ML_Bootcamp-master/20-Natural-Language-Processing/03-NLP Project - Solutions\.ipynb
+
+Notebooks/Py-DS-ML-Bootcamp-master/Refactored_Py_DS_ML_Bootcamp-master/20-Natural-Language-Processing/smsspamcollection/readme
+
+Notebooks/Py-DS-ML-Bootcamp-master/Refactored_Py_DS_ML_Bootcamp-master/20-Natural-Language-Processing/smsspamcollection/SMSSpamCollection
+
+Notebooks/Py-DS-ML-Bootcamp-master/Refactored_Py_DS_ML_Bootcamp-master/20-Natural-Language-Processing/yelp\.csv
+
+Notebooks/Py-DS-ML-Bootcamp-master/Refactored_Py_DS_ML_Bootcamp-master/21-Big-Data-and-Spark/01-Introduction to Spark and Python\.ipynb
+
+Notebooks/Py-DS-ML-Bootcamp-master/Refactored_Py_DS_ML_Bootcamp-master/21-Big-Data-and-Spark/02-Lambda Expressions\.ipynb
+
+Notebooks/Py-DS-ML-Bootcamp-master/Refactored_Py_DS_ML_Bootcamp-master/21-Big-Data-and-Spark/03-RDD Transformations and Actions\.ipynb
+
+Notebooks/Py-DS-ML-Bootcamp-master/Refactored_Py_DS_ML_Bootcamp-master/21-Big-Data-and-Spark/example\.txt
+
+Notebooks/Py-DS-ML-Bootcamp-master/Refactored_Py_DS_ML_Bootcamp-master/21-Big-Data-and-Spark/example2\.txt
+
+Notebooks/Py-DS-ML-Bootcamp-master/Refactored_Py_DS_ML_Bootcamp-master/21-Big-Data-and-Spark/services\.txt
+
+Notebooks/Py-DS-ML-Bootcamp-master/Refactored_Py_DS_ML_Bootcamp-master/22-Deep Learning/\.ipynb_checkpoints/01-Tensorflow Basics-checkpoint\.ipynb
+
+Notebooks/Py-DS-ML-Bootcamp-master/Refactored_Py_DS_ML_Bootcamp-master/22-Deep Learning/\.ipynb_checkpoints/02-MNIST-with-Tensorflow-checkpoint\.ipynb
+
+Notebooks/Py-DS-ML-Bootcamp-master/Refactored_Py_DS_ML_Bootcamp-master/22-Deep Learning/\.ipynb_checkpoints/03-Tensorflow with Estimators-checkpoint\.ipynb
+
+Notebooks/Py-DS-ML-Bootcamp-master/Refactored_Py_DS_ML_Bootcamp-master/22-Deep Learning/\.ipynb_checkpoints/04-Tensorflow Project Exercise-checkpoint\.ipynb
+
+Notebooks/Py-DS-ML-Bootcamp-master/Refactored_Py_DS_ML_Bootcamp-master/22-Deep Learning/\.ipynb_checkpoints/05-Tensorflow Project Exercise - Solutions-checkpoint\.ipynb
+
+Notebooks/Py-DS-ML-Bootcamp-master/Refactored_Py_DS_ML_Bootcamp-master/22-Deep Learning/01-Tensorflow Basics\.ipynb
+
+Notebooks/Py-DS-ML-Bootcamp-master/Refactored_Py_DS_ML_Bootcamp-master/22-Deep Learning/02-MNIST-with-Tensorflow\.ipynb
+
+Notebooks/Py-DS-ML-Bootcamp-master/Refactored_Py_DS_ML_Bootcamp-master/22-Deep Learning/03-Tensorflow with Estimators\.ipynb
+
+Notebooks/Py-DS-ML-Bootcamp-master/Refactored_Py_DS_ML_Bootcamp-master/22-Deep Learning/04-Tensorflow Project Exercise\.ipynb
+
+Notebooks/Py-DS-ML-Bootcamp-master/Refactored_Py_DS_ML_Bootcamp-master/22-Deep Learning/05-Tensorflow Project Exercise - Solutions\.ipynb
+
+Notebooks/Py-DS-ML-Bootcamp-master/Refactored_Py_DS_ML_Bootcamp-master/22-Deep Learning/bank_note_data\.csv
+
+Notebooks/Py-DS-ML-Bootcamp-master/Refactored_Py_DS_ML_Bootcamp-master/22-Deep Learning/iris\.csv
+
+Notebooks/Py-DS-ML-Bootcamp-master/Refactored_Py_DS_ML_Bootcamp-master/22-Deep Learning/MNIST_data/t10k-images-idx3-ubyte\.gz
+
+Notebooks/Py-DS-ML-Bootcamp-master/Refactored_Py_DS_ML_Bootcamp-master/22-Deep Learning/MNIST_data/t10k-labels-idx1-ubyte\.gz
+
+Notebooks/Py-DS-ML-Bootcamp-master/Refactored_Py_DS_ML_Bootcamp-master/22-Deep Learning/MNIST_data/train-images-idx3-ubyte\.gz
+
+Notebooks/Py-DS-ML-Bootcamp-master/Refactored_Py_DS_ML_Bootcamp-master/22-Deep Learning/MNIST_data/train-labels-idx1-ubyte\.gz
+
+Notebooks/Py-DS-ML-Bootcamp-master/Refactored_Py_DS_ML_Bootcamp-master/23-EXTRA-NOTES-SciPy/01-SciPy\.ipynb
+
+Notebooks/Py-DS-ML-Bootcamp-master/Refactored_Py_DS_ML_Bootcamp-master/Pierian_Data_Logo\.png
+
+Notebooks/Py-DS-ML-Bootcamp-master/Refactored_Py_DS_ML_Bootcamp-master/README\.md
