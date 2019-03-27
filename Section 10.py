@@ -1,0 +1,31 @@
+from matplotlib import pyplot as plt
+import matplotlib.style as sty
+import numpy as np
+import pandas as pd
+import seaborn as sns
+
+df3 = pd.read_csv('df3')
+
+df3.plot.scatter(x='a',y='b',figsize = (12,3),c='red')
+plt.xlim(-.2,1.2)
+plt.ylim(-.2,1.2)
+plt.show()
+
+df3['a'].plot.hist(edgecolor='black')
+plt.show()
+
+sty.use("ggplot")
+df3['a'].plot.hist(bins=25,edgecolor='white')
+plt.show()
+
+df3[['a','b']].plot.box()
+plt.show()
+
+# RangeIndex: 500 entries, 0 to 499
+# Data columns (total 4 columns):
+# a    500 non-null float64
+# b    500 non-null float64
+# c    500 non-null float64
+# d    500 non-null float64
+# dtypes: float64(4)
+# memory usage: 15.7 KB
