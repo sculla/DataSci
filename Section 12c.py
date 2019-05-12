@@ -45,7 +45,7 @@ df2.iloc[a][['Voting-Age Population (VAP)','State Abv']]
 
 data2 = dict(
     z = df2['Voting-Age Population (VAP)'],
-    locations = df2['State Abv'].iloc[range(0,9),range{9,51}],
+    locations = df2['State Abv'].iloc[range(0,9),range(9,51)],
     colorscale = scl,
     autocolorscale = False,
     type='choropleth',
