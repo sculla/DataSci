@@ -41,16 +41,17 @@ a= []
 for i in range(0,51):
     if not i == 8:
         a.append(i)
-df2.iloc[a][['Voting-Age Population (VAP)','State Abv']]
+df3 = df2.iloc[a][['Voting-Age Population (VAP)','State Abv']]
 
 data2 = dict(
-    z = df2['Voting-Age Population (VAP)'],
-    locations = df2['State Abv'].iloc[range(0,9),range(9,51)],
+    z = df3['Voting-Age Population (VAP)'],
+    locations = df3['State Abv'],
     colorscale = scl,
     autocolorscale = False,
     type='choropleth',
     colorbar={'title': 'Voting-Age Population'},
-    text = df2['State']
+    text = df2['State'],
+    locationmode='USA-states'
 )
 
 layout2 = dict(
